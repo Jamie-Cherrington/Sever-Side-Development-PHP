@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "title": "PHP Software Engineer (Web)",
+    "body": "Software developer role across Web and Mobile Development within an established company in Belfast that is experiencing growth and looking to add to their development team. This is an exciting period for their tech teams as there are a number of new projects coming up across UK and Ireland. The Role Due to continued growth and investment in the business there is an immediate requirement for a Software Developer to work across web and mobile application development!",
+    "time_to_read": 2,
+    "is_published": 1,
+    "priority": 4,
+    "created_at": "2024-04-25 23:52:36",
+    "updated_at": "2024-05-02 08:53:26",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "title": "Laravel Developer",
+    "body": "MCS Group is proud to be working with an innovative company in the manufacturing sector as they are searching for a PHP developer to join their team. This global company has a presence in over 60 countries worldwide and supports the production of more than 10 million products annually. This is a fantastic opportunity for a mid level developer looking to join a new company and learn new edge-cutting technologies.  The role  You will be working closely within a close-knit team of developer to develop the client's web app. The role is full stack focusing on back end Laravel framework and PHP. You will be part of a small but high calibre team of engineers. • Develop with the Laravel framework building web apps • Design, implement and test resource-based REST API’s web services • Design and enhance the SQL database structure",
+    "time_to_read": 1,
+    "is_published": 1,
+    "priority": 4,
+    "created_at": "2024-04-25 23:52:36",
+    "updated_at": "2024-04-26 02:18:29",
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "title": "PHP Developer (Laravel/Vue)",
+    "body": "We are looking for a Midweight PHP Developer to join our digital team. In this role, you will be working with other Developers and Designers to produce high-quality digital services. Aside from coding in PHP and JavaScript, this role involves working with the development team in planning development projects (from a code perspective) and then implementing the requirements. A keen eye for detail is essential and the ability to forward-think eventualities for multiple case scenarios is key.",
+    "time_to_read": 3,
+    "is_published": 1,
+    "priority": 1,
+    "created_at": "2024-04-25 23:52:36",
+    "updated_at": "2024-04-25 23:52:36",
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "user_id": 1,
+    "title": "Senior Laravel PHP Developer - Remote",
+    "body": "An opportunity for a talented developer to join an ambitious start-up and help supercharge a unique product through the first tech build and early stages of growth. This is a broad role where you'll be able to help shape the direction of the technology and processes in place to achieve big goals.  Requirements • You have 3+ years of experience with Laravel and PHP • JavaScript experience is a big bonus (React) • Can work independently but also a team player • You have excellent communication and collaboration skills • You are passionate about developing high-quality technology",
+    "time_to_read": 1,
+    "is_published": 1,
+    "priority": 2,
+    "created_at": "2024-04-25 23:52:36",
+    "updated_at": "2024-05-01 15:23:47",
+    "deleted_at": null
+  },
+  {
+    "id": 5,
+    "user_id": 1,
+    "title": "Laravel Full Stack Developer - Remote Working",
+    "body": "We are seeking a Laravel Full Stack Developer to create a web application using Laravel, Blade and Livewire. You will optimise the user journey through the web application. Candidates must have experience with appropriate software development practices such as version control, test-driven development and automated testing platforms.",
+    "time_to_read": 7,
+    "is_published": 1,
+    "priority": 2,
+    "created_at": "2024-04-25 23:52:36",
+    "updated_at": "2024-04-25 23:52:36",
+    "deleted_at": null
+  },
+  {
+    "id": 6,
+    "user_id": 1,
+    "title": "Senior Laravel Developer",
+    "body": "We are currently seeking a Senior Developer to lead a team of talented engineers. This role would suit someone who is passionate about creating cutting-edge solutions and encouraging a culture of collaboration and innovation. The successful applicant will have experience working with PHP Laravel, MySQL, MongoDB, and be familiar with AWS.",
+    "time_to_read": 6,
+    "is_published": 1,
+    "priority": 3,
+    "created_at": "2024-04-25 23:52:36",
+    "updated_at": "2024-04-25 23:52:36",
+    "deleted_at": null
+  }
+]
